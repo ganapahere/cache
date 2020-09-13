@@ -1,0 +1,9 @@
+q1:
+-------------------------------------------------------------------------------
+What is a virtually-indexed-physically-tagged cache? What are the other options
+when designing a cache with a TLB hierarchy and what are the trade-offs?
+
+p1: display TLB & cache details of x86 CPU;
+
+p2: submit sample workload, do forced TLB & cache flush and confirm there is
+a difference between normal vs. forced flush program execution time;
